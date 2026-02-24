@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=500&lines=Penetration+Tester+%2F+CyberSec;Red+Team+%7C+APT+Kill+Chain+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=500&lines=Penetration+Tester;Red+Team+%7C+APT+Kill+Chain+Analysis)](https://git.io/typing-svg)
 
 ---
 
@@ -23,7 +23,3 @@ Currently sharpening things through HTB and building out my own lab.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff6600" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=ff0000" width="48%"/>
-</p>
